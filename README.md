@@ -9,6 +9,6 @@ This project is a turn-based strategy game built using core Object-Oriented Prog
 - **Custom Exceptions**: A set of custom exceptions, such as `InvalidTargetException` and `MovementException`, ensures that invalid game actions are handled gracefully.
 
 Heroes and zombies are loaded dynamically from CSV files, allowing for an easy extension of characters. The project emphasizes proper design principles, encapsulation, and modularization, making it flexible and scalable for future enhancements.
-Swing and JavaFX are needed to run this project. Run the class to start the game. 
+Swing and JavaFX(make sure it's a relatively new version) are needed to run this project. Run the HeroSelectionFrame class to start the game. 
 
 Collaborators: Youssef Elshamy, Youssef Tahoon, Omar Wageeh. 
